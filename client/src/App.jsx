@@ -5,5 +5,7 @@ const App = () => {
     <div>App</div>
   )
 }
+let on = 'on'
+
 
 export default App
